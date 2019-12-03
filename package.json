@@ -1,0 +1,17 @@
+{
+  "name": "items",
+  "version": "1.0.0",
+  "description": "for client-server interaction ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aset",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1",
+    "pg": "^7.14.0"
+  }
+}
